@@ -1,0 +1,19 @@
+site_name: Boulder Eco Watch
+site_description: Official documentation and environmental monitoring portal for Boulder Eco Watch.
+site_author: Boulder Eco Watch Team
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: teal
+    accent: cyan
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - search.highlight
+
+nav:
+  - Home: index.md
+  - Overview: overview.md
+  - Monitoring Standards: monitoring-standards.md
